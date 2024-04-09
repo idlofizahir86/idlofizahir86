@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idlofi Zahir Rajaba</h1>
-<h3 align="center">a passionate learner from Indonesia 🇮🇩 currently studying Computer Science. I have a keen interest in Mobile Development, particularly Flutter, and I'm constantly exploring new technologies to expand my skills and knowledge.</h3>
+<h3 align="center">a passionate learner from Indonesia 🇮🇩 currently studying Informatics. I have a keen interest in Mobile Development, particularly Flutter, and I'm constantly exploring new technologies to expand my skills and knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idlofizahir86&label=Profile%20views&color=0e75b6&style=flat" alt="idlofizahir86" /> </p>
 
